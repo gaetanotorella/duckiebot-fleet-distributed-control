@@ -140,7 +140,8 @@ https://github.com/user-attachments/assets/73277934-7796-4354-b55e-b91f41e017ca
 Four robots with a faulty node, in RViz. The paths are the poses estimated from the encoders during the real test,
 not measured positions:
 
-<!-- Drag rviz_consensus_fault.mp4 here in the GitHub editor -->
+https://github.com/user-attachments/assets/e8b830d4-072e-425d-8a3d-68d4f662a533
+
 
 ## Limitations
 
