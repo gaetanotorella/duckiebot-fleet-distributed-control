@@ -119,7 +119,7 @@ ROS master; the PC connects to all of them over Wi-Fi with FKIE multimaster (`ma
 
 Emulation with a faulty robot, with the robots lifted off the desk:
 
-<!-- Drag emulation_fault.mp4 here in the GitHub editor -->
+https://github.com/user-attachments/assets/c0334f6c-eb83-4adb-81c3-4a9b9aac2519
 
 ## Real robots
 
@@ -135,15 +135,16 @@ The PC and the robots were connected through a smartphone hotspot (2.4 GHz Wi-Fi
 
 Two robots on the ceramic floor:
 
-<!-- Drag real_two_robots.mp4 here in the GitHub editor -->
+https://github.com/user-attachments/assets/ff818601-bc20-450a-a46b-7acd6316d434
 
 Four robots with the consensus algorithm:
 
-<!-- Drag real_consensus.mp4 here in the GitHub editor -->
+https://github.com/user-attachments/assets/73277934-7796-4354-b55e-b91f41e017ca
 
 Four robots with a faulty node:
 
-<!-- Drag real_consensus_fault.mp4 here in the GitHub editor -->
+https://github.com/user-attachments/assets/0a1e66d1-dba6-4800-a14b-339cb2b1e79a
+
 
 ## Limitations
 
