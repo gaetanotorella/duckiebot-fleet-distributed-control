@@ -1,16 +1,5 @@
-terminator -e "bash -c 'ssh duckie@db1.local'" &
-sleep 10
-xdotool type "quackquack"
-xdotool key Return
-xdotool type "sudo shutdown -h 0"
-xdotool key Return
-
-sleep 5
-
-terminator -e "bash -c 'ssh duckie@db2.local'" &
-sleep 10
-xdotool type "quackquack"
-xdotool key Return
-xdotool type "sudo shutdown -h 0"
-xdotool key Return
-
+#!/bin/bash
+# Shut down the two Duckiebots of the centralized setup. Each ssh asks for the robot's password.
+for robot in db1 db2; do
+    ssh -t duckie@"$robot".local 'sudo shutdown -h now'
+done

@@ -1,0 +1,16 @@
+# ROS build output
+ROS/catkin_ws/build/
+ROS/catkin_ws/devel/
+ROS/catkin_ws/install/
+*.pyc
+__pycache__/
+
+# MATLAB and Simulink generated files
+slprj/
+*.slxc
+*.asv
+*.autosave
+
+# macOS
+.DS_Store
+._*
