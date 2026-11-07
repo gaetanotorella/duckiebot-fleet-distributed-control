@@ -133,18 +133,14 @@ The PC and the robots were connected through a smartphone hotspot (2.4 GHz Wi-Fi
   give similar results. Close to the target, at low speed, the motors do not provide enough torque to move the robots
   on this surface.
 
-Two robots on the ceramic floor:
-
-https://github.com/user-attachments/assets/ff818601-bc20-450a-a46b-7acd6316d434
-
 Four robots with the consensus algorithm:
 
 https://github.com/user-attachments/assets/73277934-7796-4354-b55e-b91f41e017ca
 
-Four robots with a faulty node:
+Four robots with a faulty node, in RViz. The paths are the poses estimated from the encoders during the real test,
+not measured positions:
 
-https://github.com/user-attachments/assets/0a1e66d1-dba6-4800-a14b-339cb2b1e79a
-
+<!-- Drag rviz_consensus_fault.mp4 here in the GitHub editor -->
 
 ## Limitations
 
